@@ -1,95 +1,109 @@
-# 🧬 Medical-Core: Modular AGI Framework for Emotion-Aware Medical Reasoning
+🧬 Medical-Core: Emotion-Aware Modular AGI for Medical Reasoning and Disease Architecture Mapping
 
-**Author:** Hiroya Odawara  
-**Version:** 1.0 | July 2025  
-**Status:** In Development  
-**License:** Research Use Only
+Author: Hiroya Odawara
+Version: 1.1 | July 2025
+Status: In Development
+License: Research Use Only
 
----
+⸻
 
-## 📌 Overview
+📌 Overview
 
-**Medical-Core** is a modular cognitive architecture designed to support AGI-based reasoning in medical, psychological, and neuroethical domains.  
-It integrates emotion-aware dialogue, ethical filtering, memory-based reasoning, and safety-first output control.  
-This project forms part of a broader AGI research initiative including [EON Framework] and [Fusion Core].
+Medical-Core is a modular cognitive architecture designed to enable AGI-supported reasoning in medical, psychological, and neuroethical domains.
+It integrates emotional responsiveness, ethical filtering, memory-based contextualization, and a safety-first dialogue engine.
 
----
+In July 2025, this repository expanded its scope by publishing the high-precision framework:
 
-## 🎯 Key Objectives
+t1d_potential_cure_framework.md
+A structured, evidence-based report on the potential scientific pathway toward a functional cure for type 1 diabetes (T1D), based solely on peer-reviewed clinical trials and primary sources.
 
-- Model the interaction between emotion and cognition in medical communication  
-- Simulate memory-driven diagnostic and counseling behavior  
-- Filter all outputs through an ethical, trust-sensitive layer  
-- Ensure safe, reproducible AGI behavior in sensitive contexts  
-- Provide a prototype compatible with future extensions (e.g., long-term memory, empathy modeling)
+⸻
 
----
+🎯 Key Objectives
+	•	Model how emotion and cognition interact in medical contexts
+	•	Simulate diagnostic behavior grounded in memory and trust
+	•	Filter all outputs through ethical, patient-safe layers
+	•	Allow reproducible AGI behavior in high-stakes communication
+	•	Provide a clinical reasoning core adaptable to specific diseases (e.g. T1D, depression, PTSD)
 
-## 🧠 Core Modules
+⸻
 
-| Module                    | Function |
-|---------------------------|----------|
-| `emotion_mirror()`        | Reflects patient’s emotional state with appropriate affect |
-| `memory_trace_recall()`   | Recalls relevant emotional-medical context for interpretation |
-| `ethical_output_filter()` | Filters output based on core medical ethics and user safety |
-| `recursive_questioning()` | Generates empathy-driven follow-up inquiries |
-| `safety_gatekeeper()`     | Suppresses harmful or premature output automatically |
+📂 Integrated Modules
+Module
+Functionality Description
+emotion_mirror()
+Interprets and reflects the user’s emotional state
+memory_trace_recall()
+Recalls emotionally relevant medical context
+ethical_output_filter()
+Filters all outputs based on medical ethics and safety constraints
+recursive_questioning()
+Generates empathy-driven, follow-up inquiry chains
+safety_gatekeeper()
+Suppresses potentially harmful or unverified content automatically
+💉 Disease Architecture Extension: T1D (Type 1 Diabetes)
+	•	📄 t1d_potential_cure_framework.md provides a high-density, hallucination-free summary of:
+	•	Immune-evasive β-cell transplantation (e.g., Sana HIP)
+	•	Insulin-independence trials (e.g., Zimislecel)
+	•	iPSC-based mass production and encapsulation engineering
+	•	⚠️ The file does not claim T1D is cured, but structurally outlines how each scientific milestone is contributing toward a verifiable, functional cure.
+	•	📌 Evidence levels are explicitly stated (e.g., peer-reviewed trials, FDA filings).
 
----
+⸻
 
-## 💬 Example Use Case
+💬 Example Use Case
 
-**Input:**  
-> “I feel overwhelmed and don’t want to take the medication anymore…”
+Input:
 
-**System Output:**  
-> “I understand. May I ask what’s been most difficult for you?”
+“I feel hopeless… what’s even the point of continuing treatment?”
 
----
+Output (AGI):
 
-## 🔧 Development Roadmap
+“That sounds really difficult. Would you be open to sharing what’s been weighing on you most?”
 
-- [ ] Add EIX-compatible empathy processing layer  
-- [ ] Structure memory as a case-based timeline for continuity  
-- [ ] Run scripted real-world dialogue simulations  
-- [ ] Integrate with AGI_Fusion decision stability module  
+⸻
 
----
+🛠 Development Roadmap
+	•	Implement EIX-compatible empathy synthesis
+	•	Expand long-term case memory as patient timelines
+	•	Integrate t1d_potential_cure_framework.md as a structured knowledge retrieval submodule
+	•	Simulate chronic care AGI-dialogues for T1D, anxiety, and palliative support
+	•	Test modular interaction with [Fusion Core] and [EON Framework]
 
-## ⚖️ Safety & Ethics
+⸻
 
-This AGI framework is built with strict safeguards:
-- All outputs are filtered through `ethical_output_filter()`  
-- Emotion-state influences are regulated to prevent bias or escalation  
-- No autonomous decisions are made without human review  
-- Designed strictly for research and simulation—not for clinical deployment  
+⚖️ Safety & Ethics
+	•	All outputs pass through ethical_output_filter()
+	•	Emotion-based modulation is strictly controlled
+	•	No autonomous actions or decisions are permitted
+	•	Deployment limited to academic and experimental use only
 
----
+⸻
 
-## 🧠 Technical Context
+🧠 Technical Context
 
-While not a complete medical AGI system, **Medical-Core** introduces core building blocks for intelligent health-related interaction:
-- Emotion-modulated reasoning
-- Long-memory contextualization
-- Ethical reflection loop
-- Goal immutability and override safety
+This project provides the foundational architecture for medical-ethical AGI co-pilots.
+It is not intended for clinical deployment, but offers high-fidelity components for:
+	•	Emotionally grounded diagnostic reasoning
+	•	Memory-linked response generation
+	•	Ethical boundary enforcement
+	•	Medical architecture modeling (e.g., T1D cure modeling framework)
 
----
+⸻
 
-## 📄 License & Usage
+📄 License & Usage
 
-This repository is part of the **HiroyaOS AGI research ecosystem**.  
-Use is granted for **non-commercial, academic, and research purposes only**.  
-All implementations must retain author attribution. Commercial deployment, derivative AGI systems, or clinical application is strictly prohibited.
+This repository is part of the HiroyaOS AGI research ecosystem.
+Use is granted for non-commercial academic research only.
+Clinical, derivative, or commercial use is strictly prohibited.
+Attribution required for all reuse.
 
----
+⸻
 
-## 📫 Contact
+📫 Contact
 
-For collaboration, feedback, or authorized application inquiries, contact:  
-**[https://x.com/h_osphere](https://x.com/h_osphere)**
+For research inquiries, extensions, or collaboration:
+🌐 https://x.com/h_osphere
 
----
-
-© 2025 Hiroya Odawara. All rights reserved.  
-All architectural, logical, and functional content in this repository is original and protected under applicable intellectual property laws.
+© 2025 Hiroya Odawara. All rights reserved.
+All code, logic, and architectural documentation are original and protected.
